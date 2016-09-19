@@ -1,0 +1,45 @@
+{
+  "server_url": "http://10.2.2.33:8080/demo/",
+  "single_instance_variables": [
+    {
+      "name": "PosCamX",
+      "type":"float" 
+    },
+    {
+      "name": "PosCamY",
+      "type":"float"
+    },
+    {
+      "name": "PosCamZ",
+      "type": "float"
+    },
+    {
+      "name": "RotCamX",
+      "type": "float"
+    },
+    {
+      "name": "RotCamY",
+      "type": "float"
+    },
+    {
+      "name": "RotCamZ",
+      "type": "float"
+    },
+    {
+      "name": "PointerPosX",
+      "type": "float"
+    },
+    {
+      "name": "PointerPosY",
+      "type": "float"
+    },
+    {
+      "name": "PointerPosZ",
+      "type": "float"
+    },
+    {
+      "name": "IsPointerOn",
+      "type": "bool"
+    }
+  ]
+}
